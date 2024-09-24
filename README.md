@@ -1,4 +1,4 @@
-# Comparing Mapping Approaches in .NET
+# .NET: mapping library in 2024
 
 ## Two Common Approaches to Model/DTO Mapping
 
